@@ -13,3 +13,5 @@ Dies ist eine sehr tolle Beschreibung eines Charakters, welcher in einer Fantasi
 
 > Fürchtet mich, denn ich habe immer Hunger.
 > Immer Hunger habe ich. HAHAHAHAHA
+
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/ec/Superman_Logo.svg/800px-Superman_Logo.svg.png"/>
