@@ -10,3 +10,6 @@ Dies ist eine sehr tolle Beschreibung eines Charakters, welcher in einer Fantasi
 * Hunger, Hunger, Hunger
 * Vielleicht auch Schokolade
 * Hunger
+
+> Fürchtet mich, denn ich habe immer Hunger.
+> Immer Hunger habe ich. HAHAHAHAHA
