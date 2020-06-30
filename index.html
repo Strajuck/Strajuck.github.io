@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<style>
+    body, html {
+  height: 100%;
+}
+
+    //CSS?!
+</style>
+    
+    <script type="text/javascript">
+      function ReplaceImage(filename)
+      {
+        document.getElementById("imagemap").src = filename;
+      }
+    </script>
+  <body>
+<div class="bla" widht=100% height=auto>
+    <img src="PScreen123.png" usemap="#test" id="imagemap" />
+    
+    <map name="test">
+      <area shape="poly" coords="478,418,494,422,507,416,570,416,579,391,478,389" href="" onmouseover="ReplaceImage('PScreen144.png')" onmouseout="ReplaceImage('PScreen123.png')"/>
+    <area target="" alt="Start" title="Start" href="" coords="475,126,507,115,536,126,572,126,572,158,507,158,475,161,471,145" shape="poly" onmouseover="ReplaceImage('Start.png')" onmouseout="ReplaceImage('PScreen123.png')">
+    <area target="" alt="Startpos" title="Startpos" href="" coords="475,163,475,188,500,199,550,194,546,159" shape="poly">
+    <area target="" alt="Screen" title="Screen" href="" coords="2066,85,2554,458" shape="rect">
+    <area target="" alt="Sidepanel" title="Sidepanel" href="" alt="Sidepanel" coords="1,55,313,1402" shape="rect" onmouseover="ReplaceImage('Sidepanel.png')" onmouseout="ReplaceImage('PScreen123.png')">
+    </map>
+
+
+
+   
+
+ </div> 
+
+</body>
+
+</html>
